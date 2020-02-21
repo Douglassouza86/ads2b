@@ -1,0 +1,21 @@
+O sistema será desenvolvido em nossas instalações, logo, incluiremos gastos adicionais como água, energia, internet, limpeza e manutenção do local e dos equipamentos utilizados.
+
+O sistema deverá cadastrar usuários e motoristas(pilotos), ou seja, terá que colher alguns dados importantes como nome, cpf, foto 3x4, habilitação ou prevê de piloto endereço, modelo do carro r placa e contas bancárias para que possamos manter confiabilidade não só dos pilotos mas também dos usuários, garantindo assim uma viagem confortável e segura.
+
+* O sistema deverá ter um banco de dados para armazenarmos as informações colhidas dos pilotos e usuários, e estes dados serão mantidos em um servidor nas nuvens (AWS, Google Cloud ou Microsoft Azure) e com isso manteremos a integridade e sigilo das informações coletas, pois, teremos proteções eficientes e seguras fornecidas pelo serviço nas nuvens, além da proteção garantida pelas nossas ferramentas.
+
+* O sistema deverá conter um serviço de geolocalização(GPS, GSM ou Radiofrequência, Wi-fi) para que possamos encontrar e monitorar as viagens, assim, teremos sempre informações das solicitações feitas pelo usuário como por exemplo: onde(local de embarque), percurso(trajeto percorrido), data e hora.
+
+* O sistema deverá conter um mecanismo de avaliação, ou seja, usuários e motoristas(pilotos) poderão ser capazes de avaliar suas experiências das viagens já realizadas. Com tal mecanismo dificultaremos a prática de preconceito, abuso ou qualquer ato prejudicial ou lesivo as partes retromencionadas, ainda assim, na eventualidade de um ato indevido ocorrer após as informações coletadas e avaliadas, as punições serão aplicadas a parte responsável e causadora do ato indevido.
+
+* O sistema deverá conter uma função inteligente que calcula exatamente os valores a serem pagos pelo usuário, e essa função não poderá jamais cobrar acima de 10 dólares.
+ O sistema deverá ter também uma função para enviar informações de possíveis débitos deixados pelo usuário em sua última viagem.
+
+* O sistema deverá ter um mecanismo de monitoramento para garantirmos que a aplicação será executada corretamente e na eventualidade de qualquer anomalia, seja disparado um alerta para a tomada de urgente providência saneadora da irregularidade ocorrida.
+
+* O sistema deverá passar por uma grande quantidades de testes antes de sua implementação, e com isso reduziremos as eventuais falhas. https://www.primecontrol.com.br/10-ferramentas-de-automacao-de-testes-mais-usadas
+O sistema terá manutenção constante a cada hora e atualizações técnicas para melhorias se necessárias e previamente autorizadas.
+
+* Como temos mão de obra qualificada, softwares modernos e atualizados, espaços viáveis e muita criatividade, sem sombra de dúvida somos capazes de produzir o que o cliente deseja.
+
+* O sistema deverá ter um link para atendimento, com os seguintes links, ouvidoria, fale conosco, sugestões do cliente. 

@@ -1,0 +1,19 @@
+ O sistema será terá um site feito em HTML5, que é uma linguagem de marcação para construção de páginas na Web. Para ser interpretados por um navegador.
+
+Será usado CSS, para adicionar estilo (cores, fontes, espaçamento, etc.) E o criar um link para um arquivo de CSS que contenha os estilos para o site.
+
+Será usado Java Script para mostrar mensagens e outras informações interessantes, fazer verificações ou mudar dinamicamente a apresentação visual das páginas, conforme o comportamento que você deseja.
+
+Será usada Django que é um framework para desenvolvimento rápido para web, escrito em Python.
+
+Será usado SQL, para desenvolvimento de estrutura e gerenciamento de dados.
+
+﻿Será usado HTML5, para que é um linguagem de marcação para construção de páginas na Web. para ser interpretados por um  navegador.
+
+Será usado CSS, para adicionar estilo (cores, fontes, espaçamento, etc.)  e criar um link para um arquivo de CSS que contenha os estilos para o site.
+
+Será  usado JavaScript para mostrar mensagens e outras informações interessantes, fazer verificações ou mudar dinamicamente a apresentação visual das páginas, conforme o comportamento que você deseja.
+
+Será usada Django que é um “framework” para desenvolvimento rápido para web, escrito em Python.
+
+Será usado SQL, para desenvolvimento de estrutura e gerenciamento de dados.

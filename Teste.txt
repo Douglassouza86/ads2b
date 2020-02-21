@@ -1,0 +1,1 @@
+As ferramentas de testes que serão usadas são junit e bdd as ferramentas para monitoramentos  de log e performance. 

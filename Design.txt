@@ -1,0 +1,2 @@
+O sistema deverá ter uma API ("Application Programming Interface" que significa em tradução para o português (“Interface de Programação de Aplicativos”) para que possamos efetuar as cobranças das viagens realizadas pelo usuário.
+O sistema será desenvolvido utilizando as linguagens PYTHON, HTML, CSS, JAVA, SQL 
